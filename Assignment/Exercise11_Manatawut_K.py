@@ -4,3 +4,4 @@ for i in range(inputHeight):
     star = "*"*(2*i+1)
     print(space,end="")
     print(star)
+
